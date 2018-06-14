@@ -1,7 +1,7 @@
 <template>
 <div class="home">
   <parent-one></parent-one>
-  <hello-world></hello-world>
+  <!-- <hello-world></hello-world> -->
 </div>
 </template>
 
